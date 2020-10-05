@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os/exec"
 
-	"github.com/ianmarmour/nvidia-clerk/third_party/toast"
+	"github.com/giananas/nvidia-clerk/third_party/toast"
 )
 
 var execCommand = exec.Command
