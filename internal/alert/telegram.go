@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/ianmarmour/nvidia-clerk/internal/config"
+	"github.com/giananas/nvidia-clerk/internal/config"
 )
 
 //SendTelegramMessage Sends a notification message to a Telegram Webhook.
