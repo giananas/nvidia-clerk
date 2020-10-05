@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ianmarmour/nvidia-clerk/internal/config"
-	"github.com/ianmarmour/nvidia-clerk/internal/rest"
+	"github.com/giananas/nvidia-clerk/internal/config"
+	"github.com/giananas/nvidia-clerk/internal/rest"
 )
 
 // DiscordMessage represents a discord message
