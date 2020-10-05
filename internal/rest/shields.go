@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-	"github.com/ianmarmour/nvidia-clerk/internal/config"
+	"github.com/giananas/nvidia-clerk/internal/config"
 )
 
 //ShieldsEndpointResponse Represents a valid endpoint response for shields.io
