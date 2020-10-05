@@ -97,26 +97,26 @@ type Config struct {
 var SystemConfigs = map[string]map[string]SystemConfig{
 	"windows": {
 		"arm": {
-			UpdateURL: "https://github.com/ianmarmour/nvidia-clerk/releases/latest/download/nvidia-clerk-windows-arm.exe",
+			UpdateURL: "https://github.com/giananas/nvidia-clerk/releases/latest/download/nvidia-clerk-windows-arm.exe",
 		},
 		"amd64": {
-			UpdateURL: "https://github.com/ianmarmour/nvidia-clerk/releases/latest/download/nvidia-clerk-windows.exe",
+			UpdateURL: "https://github.com/giananas/nvidia-clerk/releases/latest/download/nvidia-clerk-windows.exe",
 		},
 	},
 	"linux": {
 		"arm": {
-			UpdateURL: "https://github.com/ianmarmour/nvidia-clerk/releases/latest/download/nvidia-clerk-linux-arm",
+			UpdateURL: "https://github.com/giananas/nvidia-clerk/releases/latest/download/nvidia-clerk-linux-arm",
 		},
 		"arm64": {
-			UpdateURL: "https://github.com/ianmarmour/nvidia-clerk/releases/latest/download/nvidia-clerk-linux-arm64",
+			UpdateURL: "https://github.com/giananas/nvidia-clerk/releases/latest/download/nvidia-clerk-linux-arm64",
 		},
 		"amd64": {
-			UpdateURL: "https://github.com/ianmarmour/nvidia-clerk/releases/latest/download/nvidia-clerk-linux",
+			UpdateURL: "https://github.com/giananas/nvidia-clerk/releases/latest/download/nvidia-clerk-linux",
 		},
 	},
 	"darwin": {
 		"amd64": {
-			UpdateURL: "https://github.com/ianmarmour/nvidia-clerk/releases/latest/download/nvidia-clerk-darwin",
+			UpdateURL: "https://github.com/giananas/nvidia-clerk/releases/latest/download/nvidia-clerk-darwin",
 		},
 	},
 }
